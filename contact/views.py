@@ -25,7 +25,7 @@ def contacto(request):
                 "Nuevo Mensaje de Contacto",
                 "De {} <{}>\nEscribió:\n\n{}".format(name,email,content),
                 "no-repy@inbox.mailtrap.io",
-                ["camarvi24@gmail.com"],
+                ["xxxxxx@gmail.com"],
                 reply_to=[email]
             )
 
